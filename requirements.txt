@@ -1,0 +1,13 @@
+fastapi==0.116.1
+matplotlib==3.7.2
+nibabel==5.3.2
+numpy==1.26.4
+opencv-python==4.10.0.84
+pandas==2.0.3
+streamlit==1.49.1
+surface-distance==0.1
+torch==2.3.1+cu121
+torchaudio==2.3.1+cu121
+torchsummary==1.5.1
+torchvision==0.18.1+cu121
+uvicorn==0.35.0
